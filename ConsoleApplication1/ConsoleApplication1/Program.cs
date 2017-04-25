@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("i love feifei");
             Console.Write("i miss you");
+            Console.WriteLine("i miss you so much");
         }
     }
 }
